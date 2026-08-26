@@ -4,6 +4,6 @@ A well-organized collection of **JSP (JavaServer Pages)** interview questions, c
 
 Whether you're a **Student, Java beginner, or software developer** preparing for interviews, these notes provide a quick and structured way to revise JSP fundamentals.
 
-> 📄 **Detailed explanations and examples are available in `JSP_Interview_Questions.md`.**
+> 📄 **Detailed explanations and examples are available in `JSP_Questions.md`.**
 
 ⭐ If you find this repository helpful, consider giving it a star!
